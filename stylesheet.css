@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
